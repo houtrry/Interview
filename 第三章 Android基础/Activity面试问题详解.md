@@ -6,7 +6,7 @@
 ## Activity的生命周期
 1. onCreate() => onStart()=> onRemuse() => running => onPause() => onStop() => onDestroy()
 2. onStart/onStop: Activity是否可见
-3. onRemuse/onPause:Activity是否有焦点（有焦点才能响应用户交互）
+3. onResume/onPause:Activity是否有焦点（有焦点才能响应用户交互）
 4. 点击Home键回到主界面：onPause() => onStop()   再次回到原Activity： onRestart()=>onStart()=>onResume()
 ## Activity的进程优先级
 前台、可见、服务、后台、空
