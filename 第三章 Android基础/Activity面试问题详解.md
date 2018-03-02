@@ -4,7 +4,7 @@
 3. stopped: 被另外一个Activity完全覆盖够，处于此状态。内存不紧张，则不会回收
 4. killed:被回收
 ## Activity的生命周期
-1. onCreate() => onStart()=> onRemuse() => running => onPause() => onStop() => onDestroy()
+1. onCreate() => onStart()=> onResume() => running => onPause() => onStop() => onDestroy()
 2. onStart/onStop: Activity是否可见
 3. onResume/onPause:Activity是否有焦点（有焦点才能响应用户交互）
 4. 点击Home键回到主界面：onPause() => onStop()   再次回到原Activity： onRestart()=>onStart()=>onResume()
