@@ -18,5 +18,5 @@
 4. singleInstance：独享一个栈
 
 ## scheme跳转协议
-1. [scheme的安全问题](https://segmentfault.com/a/1190000007747812).
-2. [scheme简单介绍](http://blog.csdn.net/lishuiyuntian/article/details/77477756)
+1. [scheme简单介绍](http://blog.csdn.net/lishuiyuntian/article/details/77477756)
+2. [scheme的安全问题](https://segmentfault.com/a/1190000007747812).
