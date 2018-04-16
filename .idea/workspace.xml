@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5a17d1-793c-467e-b631-a611dd230888" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第四章 异步消息处理机制相关面试问题/HandlerThread和IntentService相关.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第四章 异步消息处理机制相关面试问题/Asynctask相关.md" afterPath="$PROJECT_DIR$/第四章 异步消息处理机制相关面试问题/Asynctask相关.md" />
     </list>
     <ignored path="Interview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -443,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519979662764</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Activity面试相关问题">
+      <created>1521031212324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521031212324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
